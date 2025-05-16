@@ -1,5 +1,7 @@
 # Benvenuto nel mio Profilo GitHub 👋
 
+> **Lingue disponibili**: [English](README.md) | [Italiano (corrente)](README.it.md)
+
 ```bash
 $ whoami
 Ugo
